@@ -1,0 +1,201 @@
+Region,Suburb,Value,Date,Measure,Date_dt
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,352.0,Mar 2000,Count,2000-03-01
+,Armadale,210.0,Mar 2000,Count,2000-03-01
+,Carlton North,87.0,Mar 2000,Count,2000-03-01
+,Carlton-Parkville,298.0,Mar 2000,Count,2000-03-01
+,CBD-St Kilda Rd,755.0,Mar 2000,Count,2000-03-01
+,Collingwood-Abbotsford,130.0,Mar 2000,Count,2000-03-01
+,Docklands,,Mar 2000,Count,2000-03-01
+,East Melbourne,203.0,Mar 2000,Count,2000-03-01
+,East St Kilda,616.0,Mar 2000,Count,2000-03-01
+,Elwood,585.0,Mar 2000,Count,2000-03-01
+,Fitzroy,176.0,Mar 2000,Count,2000-03-01
+,Fitzroy North-Clifton Hill,163.0,Mar 2000,Count,2000-03-01
+,Flemington-Kensington,215.0,Mar 2000,Count,2000-03-01
+,North Melbourne-West Melbourne,159.0,Mar 2000,Count,2000-03-01
+,Port Melbourne,47.0,Mar 2000,Count,2000-03-01
+,Prahran-Windsor,484.0,Mar 2000,Count,2000-03-01
+,Richmond-Burnley,529.0,Mar 2000,Count,2000-03-01
+,South Melbourne,70.0,Mar 2000,Count,2000-03-01
+,South Yarra,976.0,Mar 2000,Count,2000-03-01
+,Southbank,83.0,Mar 2000,Count,2000-03-01
+,St Kilda,1317.0,Mar 2000,Count,2000-03-01
+,Toorak,290.0,Mar 2000,Count,2000-03-01
+,Group Total,7746.0,Mar 2000,Count,2000-03-01
+Inner Eastern Melbourne,Balwyn,12.0,Mar 2000,Count,2000-03-01
+,Blackburn,52.0,Mar 2000,Count,2000-03-01
+,Box Hill,75.0,Mar 2000,Count,2000-03-01
+,Bulleen-Templestowe-Doncaster,36.0,Mar 2000,Count,2000-03-01
+,Burwood-Ashburton,51.0,Mar 2000,Count,2000-03-01
+,Camberwell-Glen Iris,171.0,Mar 2000,Count,2000-03-01
+,Canterbury-Surrey Hills-Mont Albert,,Mar 2000,Count,2000-03-01
+,Chadstone-Oakleigh,11.0,Mar 2000,Count,2000-03-01
+,Clayton,45.0,Mar 2000,Count,2000-03-01
+,Doncaster East-Donvale,23.0,Mar 2000,Count,2000-03-01
+,East Hawthorn,128.0,Mar 2000,Count,2000-03-01
+,Glen Waverley-Mulgrave,10.0,Mar 2000,Count,2000-03-01
+,Hawthorn,475.0,Mar 2000,Count,2000-03-01
+,Kew,72.0,Mar 2000,Count,2000-03-01
+,Mount Waverley,14.0,Mar 2000,Count,2000-03-01
+,Nunawading-Mitcham,48.0,Mar 2000,Count,2000-03-01
+,Vermont-Forest Hill-Burwood East,14.0,Mar 2000,Count,2000-03-01
+,Group Total,1246.0,Mar 2000,Count,2000-03-01
+Southern Melbourne,Aspendale-Chelsea-Carrum,105.0,Mar 2000,Count,2000-03-01
+,Bentleigh,153.0,Mar 2000,Count,2000-03-01
+,Brighton,29.0,Mar 2000,Count,2000-03-01
+,Brighton East,,Mar 2000,Count,2000-03-01
+,Carnegie,344.0,Mar 2000,Count,2000-03-01
+,Caulfield,336.0,Mar 2000,Count,2000-03-01
+,Cheltenham,50.0,Mar 2000,Count,2000-03-01
+,Elsternwick,183.0,Mar 2000,Count,2000-03-01
+,Hampton-Beaumaris,31.0,Mar 2000,Count,2000-03-01
+,Malvern,96.0,Mar 2000,Count,2000-03-01
+,Malvern East,83.0,Mar 2000,Count,2000-03-01
+,Mentone-Parkdale-Mordialloc,270.0,Mar 2000,Count,2000-03-01
+,Murrumbeena-Hughesdale,271.0,Mar 2000,Count,2000-03-01
+,Group Total,1960.0,Mar 2000,Count,2000-03-01
+Outer Western Melbourne,Altona,87.0,Mar 2000,Count,2000-03-01
+,Footscray,169.0,Mar 2000,Count,2000-03-01
+,Keilor East-Avondale Heights,48.0,Mar 2000,Count,2000-03-01
+,Melton,,Mar 2000,Count,2000-03-01
+,Newport-Spotswood,79.0,Mar 2000,Count,2000-03-01
+,St Albans-Deer Park,55.0,Mar 2000,Count,2000-03-01
+,Sunshine,203.0,Mar 2000,Count,2000-03-01
+,Sydenham,,Mar 2000,Count,2000-03-01
+,Werribee-Hoppers Crossing,14.0,Mar 2000,Count,2000-03-01
+,West Footscray,173.0,Mar 2000,Count,2000-03-01
+,Williamstown,51.0,Mar 2000,Count,2000-03-01
+,Yarraville-Seddon,113.0,Mar 2000,Count,2000-03-01
+,Group Total,995.0,Mar 2000,Count,2000-03-01
+North Western Melbourne,Broadmeadows-Roxburgh Park,28.0,Mar 2000,Count,2000-03-01
+,Brunswick,409.0,Mar 2000,Count,2000-03-01
+,Coburg-Pascoe Vale South,82.0,Mar 2000,Count,2000-03-01
+,Craigieburn,,Mar 2000,Count,2000-03-01
+,East Brunswick,74.0,Mar 2000,Count,2000-03-01
+,Essendon,284.0,Mar 2000,Count,2000-03-01
+,Gladstone Park-Tullamarine,14.0,Mar 2000,Count,2000-03-01
+,Keilor,,Mar 2000,Count,2000-03-01
+,Moonee Ponds-Ascot Vale,214.0,Mar 2000,Count,2000-03-01
+,Oak Park-Glenroy-Fawkner,74.0,Mar 2000,Count,2000-03-01
+,Pascoe Vale-Coburg North,45.0,Mar 2000,Count,2000-03-01
+,Sunbury,14.0,Mar 2000,Count,2000-03-01
+,West Brunswick,282.0,Mar 2000,Count,2000-03-01
+,Group Total,1520.0,Mar 2000,Count,2000-03-01
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,48.0,Mar 2000,Count,2000-03-01
+,Eltham-Research-Montmorency,26.0,Mar 2000,Count,2000-03-01
+,Fairfield-Alphington,281.0,Mar 2000,Count,2000-03-01
+,Heidelberg-Heidelberg West,51.0,Mar 2000,Count,2000-03-01
+,Ivanhoe-Ivanhoe East,60.0,Mar 2000,Count,2000-03-01
+,Mill Park-Epping,,Mar 2000,Count,2000-03-01
+,Northcote,206.0,Mar 2000,Count,2000-03-01
+,Preston,167.0,Mar 2000,Count,2000-03-01
+,Reservoir,106.0,Mar 2000,Count,2000-03-01
+,Thomastown-Lalor,,Mar 2000,Count,2000-03-01
+,Thornbury,377.0,Mar 2000,Count,2000-03-01
+,Whittlesea,,Mar 2000,Count,2000-03-01
+,Group Total,1334.0,Mar 2000,Count,2000-03-01
+Outer Eastern Melbourne,Bayswater,21.0,Mar 2000,Count,2000-03-01
+,Boronia,13.0,Mar 2000,Count,2000-03-01
+,Croydon-Lilydale,111.0,Mar 2000,Count,2000-03-01
+,Ferntree Gully,34.0,Mar 2000,Count,2000-03-01
+,Ringwood,45.0,Mar 2000,Count,2000-03-01
+,Rowville,,Mar 2000,Count,2000-03-01
+,Wantirna-Scoresby,,Mar 2000,Count,2000-03-01
+,Yarra Ranges,68.0,Mar 2000,Count,2000-03-01
+,Group Total,301.0,Mar 2000,Count,2000-03-01
+South Eastern Melbourne,Berwick,,Mar 2000,Count,2000-03-01
+,Cranbourne,,Mar 2000,Count,2000-03-01
+,Dandenong,78.0,Mar 2000,Count,2000-03-01
+,Dandenong North-Endeavour Hills,12.0,Mar 2000,Count,2000-03-01
+,Narre Warren-Hampton Park,10.0,Mar 2000,Count,2000-03-01
+,Noble Park,194.0,Mar 2000,Count,2000-03-01
+,Pakenham,12.0,Mar 2000,Count,2000-03-01
+,Springvale,119.0,Mar 2000,Count,2000-03-01
+,Group Total,437.0,Mar 2000,Count,2000-03-01
+Mornington Peninsula,Dromana-Portsea,45.0,Mar 2000,Count,2000-03-01
+,Frankston,142.0,Mar 2000,Count,2000-03-01
+,Hastings-Flinders,11.0,Mar 2000,Count,2000-03-01
+,Mt Eliza-Mornington-Mt Martha,35.0,Mar 2000,Count,2000-03-01
+,Seaford-Carrum Downs,41.0,Mar 2000,Count,2000-03-01
+,Group Total,274.0,Mar 2000,Count,2000-03-01
+Geelong,Belmont-Grovedale,154.0,Mar 2000,Count,2000-03-01
+,Corio,56.0,Mar 2000,Count,2000-03-01
+,Geelong-Newcombe,193.0,Mar 2000,Count,2000-03-01
+,Herne Hill-Geelong West,233.0,Mar 2000,Count,2000-03-01
+,Lara,19.0,Mar 2000,Count,2000-03-01
+,Newtown,75.0,Mar 2000,Count,2000-03-01
+,North Geelong,106.0,Mar 2000,Count,2000-03-01
+,Group Total,836.0,Mar 2000,Count,2000-03-01
+Ballarat,Ballarat,69.0,Mar 2000,Count,2000-03-01
+,Mount Clear-Buninyong,105.0,Mar 2000,Count,2000-03-01
+,Sebastopol-Delacombe,57.0,Mar 2000,Count,2000-03-01
+,Wendouree-Alfredton,166.0,Mar 2000,Count,2000-03-01
+,Group Total,397.0,Mar 2000,Count,2000-03-01
+Bendigo,Bendigo,84.0,Mar 2000,Count,2000-03-01
+,Flora Hill-Bendigo East,50.0,Mar 2000,Count,2000-03-01
+,Golden Square-Kangaroo Flat,22.0,Mar 2000,Count,2000-03-01
+,North Bendigo,26.0,Mar 2000,Count,2000-03-01
+,Group Total,182.0,Mar 2000,Count,2000-03-01
+Other Regional Centres,Bairnsdale,21.0,Mar 2000,Count,2000-03-01
+,Benalla,32.0,Mar 2000,Count,2000-03-01
+,Castlemaine,,Mar 2000,Count,2000-03-01
+,Echuca,40.0,Mar 2000,Count,2000-03-01
+,Hamilton,36.0,Mar 2000,Count,2000-03-01
+,Horsham,36.0,Mar 2000,Count,2000-03-01
+,Mildura,77.0,Mar 2000,Count,2000-03-01
+,Moe-Newborough,70.0,Mar 2000,Count,2000-03-01
+,Morwell,76.0,Mar 2000,Count,2000-03-01
+,Ocean Grove-Barwon Heads,10.0,Mar 2000,Count,2000-03-01
+,Portland,27.0,Mar 2000,Count,2000-03-01
+,Sale-Maffra,90.0,Mar 2000,Count,2000-03-01
+,Seymour,,Mar 2000,Count,2000-03-01
+,Shepparton,151.0,Mar 2000,Count,2000-03-01
+,Swan Hill,72.0,Mar 2000,Count,2000-03-01
+,Torquay,17.0,Mar 2000,Count,2000-03-01
+,Traralgon,108.0,Mar 2000,Count,2000-03-01
+,Wanagaratta,51.0,Mar 2000,Count,2000-03-01
+,Warragul,13.0,Mar 2000,Count,2000-03-01
+,Warrnambool,113.0,Mar 2000,Count,2000-03-01
+,Wodonga,77.0,Mar 2000,Count,2000-03-01
+,Group Total,1132.0,Mar 2000,Count,2000-03-01
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,165.0,Mar 2000,Median,2000-03-01
+,Armadale,150.0,Mar 2000,Median,2000-03-01
+,Carlton North,150.0,Mar 2000,Median,2000-03-01
+,Carlton-Parkville,165.0,Mar 2000,Median,2000-03-01
+,CBD-St Kilda Rd,250.0,Mar 2000,Median,2000-03-01
+,Collingwood-Abbotsford,135.0,Mar 2000,Median,2000-03-01
+,Docklands,,Mar 2000,Median,2000-03-01
+,East Melbourne,180.0,Mar 2000,Median,2000-03-01
+,East St Kilda,140.0,Mar 2000,Median,2000-03-01
+,Elwood,150.0,Mar 2000,Median,2000-03-01
+,Fitzroy,140.0,Mar 2000,Median,2000-03-01
+,Fitzroy North-Clifton Hill,130.0,Mar 2000,Median,2000-03-01
+,Flemington-Kensington,120.0,Mar 2000,Median,2000-03-01
+,North Melbourne-West Melbourne,155.0,Mar 2000,Median,2000-03-01
+,Port Melbourne,280.0,Mar 2000,Median,2000-03-01
+,Prahran-Windsor,150.0,Mar 2000,Median,2000-03-01
+,Richmond-Burnley,140.0,Mar 2000,Median,2000-03-01
+,South Melbourne,170.0,Mar 2000,Median,2000-03-01
+,South Yarra,170.0,Mar 2000,Median,2000-03-01
+,Southbank,285.0,Mar 2000,Median,2000-03-01
+,St Kilda,160.0,Mar 2000,Median,2000-03-01
+,Toorak,170.0,Mar 2000,Median,2000-03-01
+,Group Total,160.0,Mar 2000,Median,2000-03-01
+Inner Eastern Melbourne,Balwyn,145.0,Mar 2000,Median,2000-03-01
+,Blackburn,123.0,Mar 2000,Median,2000-03-01
+,Box Hill,125.0,Mar 2000,Median,2000-03-01
+,Bulleen-Templestowe-Doncaster,125.0,Mar 2000,Median,2000-03-01
+,Burwood-Ashburton,165.0,Mar 2000,Median,2000-03-01
+,Camberwell-Glen Iris,135.0,Mar 2000,Median,2000-03-01
+,Canterbury-Surrey Hills-Mont Albert,,Mar 2000,Median,2000-03-01
+,Chadstone-Oakleigh,115.0,Mar 2000,Median,2000-03-01
+,Clayton,165.0,Mar 2000,Median,2000-03-01
+,Doncaster East-Donvale,130.0,Mar 2000,Median,2000-03-01
+,East Hawthorn,140.0,Mar 2000,Median,2000-03-01
+,Glen Waverley-Mulgrave,140.0,Mar 2000,Median,2000-03-01
+,Hawthorn,145.0,Mar 2000,Median,2000-03-01
+,Kew,165.0,Mar 2000,Median,2000-03-01
+,Mount Waverley,123.0,Mar 2000,Median,2000-03-01
+,Nunawading-Mitcham,118.0,Mar 2000,Median,2000-03-01
+,Vermont-Forest Hill-Burwood East,125.0,Mar 2000,Median,2000-03-01
+,Group Total,140.0,Mar 2000,Median,2000-03-01

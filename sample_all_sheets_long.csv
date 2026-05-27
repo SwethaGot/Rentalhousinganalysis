@@ -1,0 +1,201 @@
+Region,Suburb,Value,Date,Measure,Date_period,Date_quarter,Date_dt,PropertyType
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,352.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Armadale,210.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Carlton North,87.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Carlton-Parkville,298.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,CBD-St Kilda Rd,755.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Collingwood-Abbotsford,130.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Docklands,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,East Melbourne,203.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,East St Kilda,616.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Elwood,585.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Fitzroy,176.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Fitzroy North-Clifton Hill,163.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Flemington-Kensington,215.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,North Melbourne-West Melbourne,159.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Port Melbourne,47.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Prahran-Windsor,484.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Richmond-Burnley,529.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,South Melbourne,70.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,South Yarra,976.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Southbank,83.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,St Kilda,1317.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Toorak,290.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,7746.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Inner Eastern Melbourne,Balwyn,12.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Blackburn,52.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Box Hill,75.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Bulleen-Templestowe-Doncaster,36.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Burwood-Ashburton,51.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Camberwell-Glen Iris,171.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Canterbury-Surrey Hills-Mont Albert,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Chadstone-Oakleigh,11.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Clayton,45.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Doncaster East-Donvale,23.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,East Hawthorn,128.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Glen Waverley-Mulgrave,10.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Hawthorn,475.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Kew,72.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Mount Waverley,14.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Nunawading-Mitcham,48.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Vermont-Forest Hill-Burwood East,14.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,1246.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Southern Melbourne,Aspendale-Chelsea-Carrum,105.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Bentleigh,153.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Brighton,29.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Brighton East,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Carnegie,344.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Caulfield,336.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Cheltenham,50.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Elsternwick,183.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Hampton-Beaumaris,31.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Malvern,96.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Malvern East,83.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Mentone-Parkdale-Mordialloc,270.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Murrumbeena-Hughesdale,271.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,1960.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Outer Western Melbourne,Altona,87.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Footscray,169.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Keilor East-Avondale Heights,48.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Melton,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Newport-Spotswood,79.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,St Albans-Deer Park,55.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Sunshine,203.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Sydenham,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Werribee-Hoppers Crossing,14.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,West Footscray,173.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Williamstown,51.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Yarraville-Seddon,113.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,995.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+North Western Melbourne,Broadmeadows-Roxburgh Park,28.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Brunswick,409.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Coburg-Pascoe Vale South,82.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Craigieburn,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,East Brunswick,74.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Essendon,284.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Gladstone Park-Tullamarine,14.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Keilor,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Moonee Ponds-Ascot Vale,214.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Oak Park-Glenroy-Fawkner,74.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Pascoe Vale-Coburg North,45.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Sunbury,14.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,West Brunswick,282.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,1520.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,48.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Eltham-Research-Montmorency,26.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Fairfield-Alphington,281.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Heidelberg-Heidelberg West,51.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Ivanhoe-Ivanhoe East,60.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Mill Park-Epping,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Northcote,206.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Preston,167.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Reservoir,106.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Thomastown-Lalor,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Thornbury,377.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Whittlesea,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,1334.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Outer Eastern Melbourne,Bayswater,21.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Boronia,13.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Croydon-Lilydale,111.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Ferntree Gully,34.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Ringwood,45.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Rowville,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Wantirna-Scoresby,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Yarra Ranges,68.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,301.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+South Eastern Melbourne,Berwick,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Cranbourne,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Dandenong,78.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Dandenong North-Endeavour Hills,12.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Narre Warren-Hampton Park,10.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Noble Park,194.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Pakenham,12.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Springvale,119.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,437.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Mornington Peninsula,Dromana-Portsea,45.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Frankston,142.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Hastings-Flinders,11.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Mt Eliza-Mornington-Mt Martha,35.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Seaford-Carrum Downs,41.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,274.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Geelong,Belmont-Grovedale,154.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Corio,56.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Geelong-Newcombe,193.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Herne Hill-Geelong West,233.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Lara,19.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Newtown,75.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,North Geelong,106.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,836.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Ballarat,Ballarat,69.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Mount Clear-Buninyong,105.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Sebastopol-Delacombe,57.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Wendouree-Alfredton,166.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,397.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Bendigo,Bendigo,84.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Flora Hill-Bendigo East,50.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Golden Square-Kangaroo Flat,22.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,North Bendigo,26.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,182.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Other Regional Centres,Bairnsdale,21.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Benalla,32.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Castlemaine,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Echuca,40.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Hamilton,36.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Horsham,36.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Mildura,77.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Moe-Newborough,70.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Morwell,76.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Ocean Grove-Barwon Heads,10.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Portland,27.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Sale-Maffra,90.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Seymour,,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Shepparton,151.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Swan Hill,72.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Torquay,17.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Traralgon,108.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Wanagaratta,51.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Warragul,13.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Warrnambool,113.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Wodonga,77.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,1132.0,Mar 2000,Count,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,165.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Armadale,150.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Carlton North,150.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Carlton-Parkville,165.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,CBD-St Kilda Rd,250.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Collingwood-Abbotsford,135.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Docklands,,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,East Melbourne,180.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,East St Kilda,140.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Elwood,150.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Fitzroy,140.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Fitzroy North-Clifton Hill,130.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Flemington-Kensington,120.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,North Melbourne-West Melbourne,155.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Port Melbourne,280.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Prahran-Windsor,150.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Richmond-Burnley,140.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,South Melbourne,170.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,South Yarra,170.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Southbank,285.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,St Kilda,160.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Toorak,170.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,160.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+Inner Eastern Melbourne,Balwyn,145.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Blackburn,123.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Box Hill,125.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Bulleen-Templestowe-Doncaster,125.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Burwood-Ashburton,165.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Camberwell-Glen Iris,135.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Canterbury-Surrey Hills-Mont Albert,,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Chadstone-Oakleigh,115.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Clayton,165.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Doncaster East-Donvale,130.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,East Hawthorn,140.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Glen Waverley-Mulgrave,140.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Hawthorn,145.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Kew,165.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Mount Waverley,123.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Nunawading-Mitcham,118.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Vermont-Forest Hill-Burwood East,125.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
+,Group Total,140.0,Mar 2000,Median,2000Q1,2000Q1,2000-03-31 23:59:59.999999999,1 bedroom flat
